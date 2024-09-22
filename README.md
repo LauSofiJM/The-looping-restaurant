@@ -13,7 +13,7 @@ _This is the how I decided to use the extension._
 ***
 
 ## 2. Dante's Inferno
-I wanted to create a restaurant named after my dog, Dante. The menu is inspired by my personal preferences and pricing experiences. I had to devise strategies to make the code more concrete. In this opportunity, I found it a little bit harder to implement the private and protected stuff when adding the payment methods.
+I wanted to create a restaurant named after my dog, Dante. The menu is inspired by my personal preferences and pricing experiences. I had to devise strategies to make the code more concrete despite adding looping.
 
 ```python
 
@@ -231,8 +231,11 @@ class Order:
 
 Discounts:
 Hot discount - When ordering hot wings, mini nachos and Coke, the order will have a 5% total discount.
+
 La discount - When ordering tacos de birria, mini empanadas and peach tea, the order will have a 3% total discount.
+
 Ita discount - When ordering pepperoni pizza, French bread and coconut lemonade, the order will have a 6% total discount.
+
 Thirsty discount - When ordering coconut lemonade, coke, mango juice and peach tea.
 
 # Mermaid - Dante's inferno
