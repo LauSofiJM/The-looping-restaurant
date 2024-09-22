@@ -17,8 +17,7 @@ I wanted to create a restaurant named after my dog, Dante. The menu is inspired 
 
 ```python
 
-#* Restarurant - Dante's Inferno
-# I am going to create a program that allows the customer to know how much money they have to pay.
+#* Dante's Inferno
 
 class MenuItem:
     def __init__(self, name, price):
